@@ -1,8 +1,8 @@
 ## Plugin de alocação de professores
-<div style="float: left; width: 50%" >
+<div style="float: left" >
   ![](http://www.toolscloud.com/wp-content/uploads/2012/05/Redmine-Logo-CyberSprocket-Composite-300x300-png8.png)
 </div>
-<div style="float: right; width: 50%">
+<div style="float: right">
   ![](http://cdnx.sempretops.com/wp-content/uploads/image11.jpg)
 </div>
 
@@ -16,14 +16,20 @@ Esta seleção deve obedecer as seguintes regras, previamente estabelecidas:
 * A alocação deve obedecer o prazo de disponibilidade dos professores
 * ...
 
-### Equipe
 #### Coordenadores
 Flavius Gorgônio
+
 Taciano Silva
 
 #### Desenvolvimento
 Cícero Alves
+
 Gutto Silva
+
 Fladson Thiago
+
 Huliane Medeiros
+
+Lucas Almeida
+
 ...
